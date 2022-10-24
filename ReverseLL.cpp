@@ -1,3 +1,4 @@
+#This is code for reversing linked list in CPP.
 Node* reverseLL(Node *head)
 {
 	
